@@ -254,8 +254,8 @@ th {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url(/static/gen/assets/glyphicons-halflings-regular.eot);
-  src: url(/static/gen/assets/glyphicons-halflings-regular.eot?#iefix) format('embedded-opentype'), url(/static/gen/fonts/glyphicons-halflings-regular.woff2) format('woff2'), url(/static/gen/fonts/glyphicons-halflings-regular.woff) format('woff'), url(/static/gen/assets/glyphicons-halflings-regular.ttf) format('truetype'), url(/static/gen/assets/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg');
+  src: url('//cdn.jsdelivr.net/npm/glyphicons-only-bootstrap@1.0.1/fonts/glyphicons-halflings-regular.eot');
+  src: url('//cdn.jsdelivr.net/npm/glyphicons-only-bootstrap@1.0.1/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('//cdn.jsdelivr.net/npm/glyphicons-only-bootstrap@1.0.1/fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('//cdn.jsdelivr.net/npm/glyphicons-only-bootstrap@1.0.1/fonts/glyphicons-halflings-regular.woff') format('woff'), url('//cdn.jsdelivr.net/npm/glyphicons-only-bootstrap@1.0.1/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('//cdn.jsdelivr.net/npm/glyphicons-only-bootstrap@1.0.1/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;
@@ -4865,52 +4865,6 @@ a.label:focus {
 .label-danger[href]:hover,
 .label-danger[href]:focus {
   background-color: #c9302c;
-}
-.badge {
-  display: inline-block;
-  min-width: 10px;
-  padding: 3px 7px;
-  font-size: 12px;
-  font-weight: bold;
-  color: #fff;
-  line-height: 1;
-  vertical-align: middle;
-  white-space: nowrap;
-  text-align: center;
-  background-color: #777777;
-  border-radius: 10px;
-}
-.badge:empty {
-  display: none;
-}
-.btn .badge {
-  position: relative;
-  top: -1px;
-}
-.btn-xs .badge,
-.btn-group-xs > .btn .badge {
-  top: 0;
-  padding: 1px 5px;
-}
-a.badge:hover,
-a.badge:focus {
-  color: #fff;
-  text-decoration: none;
-  cursor: pointer;
-}
-.list-group-item.active > .badge,
-.nav-pills > .active > a > .badge {
-  color: #7C0500;
-  background-color: #fff;
-}
-.list-group-item > .badge {
-  float: right;
-}
-.list-group-item > .badge + .badge {
-  margin-right: 5px;
-}
-.nav-pills > li > a > .badge {
-  margin-left: 3px;
 }
 .alert {
   padding: 15px;
@@ -7427,8 +7381,8 @@ th {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url(/static/gen/assets/glyphicons-halflings-regular.eot);
-  src: url(/static/gen/assets/glyphicons-halflings-regular.eot?#iefix) format('embedded-opentype'), url(/static/gen/fonts/glyphicons-halflings-regular.woff2) format('woff2'), url(/static/gen/fonts/glyphicons-halflings-regular.woff) format('woff'), url(/static/gen/assets/glyphicons-halflings-regular.ttf) format('truetype'), url(/static/gen/assets/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg');
+  src: url('//cdn.jsdelivr.net/npm/glyphicons-only-bootstrap@1.0.1/fonts/glyphicons-halflings-regular.eot');
+  src: url('//cdn.jsdelivr.net/npm/glyphicons-only-bootstrap@1.0.1/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('//cdn.jsdelivr.net/npm/glyphicons-only-bootstrap@1.0.1/fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('//cdn.jsdelivr.net/npm/glyphicons-only-bootstrap@1.0.1/fonts/glyphicons-halflings-regular.woff') format('woff'), url('//cdn.jsdelivr.net/npm/glyphicons-only-bootstrap@1.0.1/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('//cdn.jsdelivr.net/npm/glyphicons-only-bootstrap@1.0.1/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;
@@ -12038,52 +11992,6 @@ a.label:focus {
 .label-danger[href]:hover,
 .label-danger[href]:focus {
   background-color: #c9302c;
-}
-.badge {
-  display: inline-block;
-  min-width: 10px;
-  padding: 3px 7px;
-  font-size: 12px;
-  font-weight: bold;
-  color: #fff;
-  line-height: 1;
-  vertical-align: middle;
-  white-space: nowrap;
-  text-align: center;
-  background-color: #777777;
-  border-radius: 10px;
-}
-.badge:empty {
-  display: none;
-}
-.btn .badge {
-  position: relative;
-  top: -1px;
-}
-.btn-xs .badge,
-.btn-group-xs > .btn .badge {
-  top: 0;
-  padding: 1px 5px;
-}
-a.badge:hover,
-a.badge:focus {
-  color: #fff;
-  text-decoration: none;
-  cursor: pointer;
-}
-.list-group-item.active > .badge,
-.nav-pills > .active > a > .badge {
-  color: #7C0500;
-  background-color: #fff;
-}
-.list-group-item > .badge {
-  float: right;
-}
-.list-group-item > .badge + .badge {
-  margin-right: 5px;
-}
-.nav-pills > li > a > .badge {
-  margin-left: 3px;
 }
 .alert {
   padding: 15px;
@@ -14785,8 +14693,8 @@ th {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url(/static/gen/assets/glyphicons-halflings-regular.eot);
-  src: url(/static/gen/assets/glyphicons-halflings-regular.eot?#iefix) format('embedded-opentype'), url(/static/gen/fonts/glyphicons-halflings-regular.woff2) format('woff2'), url(/static/gen/fonts/glyphicons-halflings-regular.woff) format('woff'), url(/static/gen/assets/glyphicons-halflings-regular.ttf) format('truetype'), url(/static/gen/assets/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg');
+  src: url('//cdn.jsdelivr.net/npm/glyphicons-only-bootstrap@1.0.1/fonts/glyphicons-halflings-regular.eot');
+  src: url('//cdn.jsdelivr.net/npm/glyphicons-only-bootstrap@1.0.1/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('//cdn.jsdelivr.net/npm/glyphicons-only-bootstrap@1.0.1/fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('//cdn.jsdelivr.net/npm/glyphicons-only-bootstrap@1.0.1/fonts/glyphicons-halflings-regular.woff') format('woff'), url('//cdn.jsdelivr.net/npm/glyphicons-only-bootstrap@1.0.1/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('//cdn.jsdelivr.net/npm/glyphicons-only-bootstrap@1.0.1/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;
@@ -19396,52 +19304,6 @@ a.label:focus {
 .label-danger[href]:hover,
 .label-danger[href]:focus {
   background-color: #c9302c;
-}
-.badge {
-  display: inline-block;
-  min-width: 10px;
-  padding: 3px 7px;
-  font-size: 12px;
-  font-weight: bold;
-  color: #fff;
-  line-height: 1;
-  vertical-align: middle;
-  white-space: nowrap;
-  text-align: center;
-  background-color: #777777;
-  border-radius: 10px;
-}
-.badge:empty {
-  display: none;
-}
-.btn .badge {
-  position: relative;
-  top: -1px;
-}
-.btn-xs .badge,
-.btn-group-xs > .btn .badge {
-  top: 0;
-  padding: 1px 5px;
-}
-a.badge:hover,
-a.badge:focus {
-  color: #fff;
-  text-decoration: none;
-  cursor: pointer;
-}
-.list-group-item.active > .badge,
-.nav-pills > .active > a > .badge {
-  color: #7C0500;
-  background-color: #fff;
-}
-.list-group-item > .badge {
-  float: right;
-}
-.list-group-item > .badge + .badge {
-  margin-right: 5px;
-}
-.nav-pills > li > a > .badge {
-  margin-left: 3px;
 }
 .alert {
   padding: 15px;
